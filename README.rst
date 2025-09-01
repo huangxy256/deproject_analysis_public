@@ -1,5 +1,5 @@
 =========
-Analysis code of "Triaxiality and projection effect in time-delay cosmography" by Huang et al 2024
+Analysis code of "Triaxiality and projection effect in time-delay cosmography" by Huang et al 2025
 =========
 
 
